@@ -1,0 +1,60 @@
+
+MULTI-AGENT COORDINATION FOR E-COMMERCE
+FINAL EXPERIMENT SNAPSHOT
+
+Frozen on:
+2026-09-11 15:39:02
+
+Python version:
+3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+
+Operating system:
+Windows-10-10.0.26200-SP0
+
+Project root:
+C:\Users\srush\Desktop\Multi agent coordination
+
+FINAL EXPERIMENT DESIGN
+-----------------------
+Architectures: 3
+
+1. Single Agent
+2. Multi-Agent Without Coordination
+3. Coordinated Multi-Agent
+
+Unique benchmark queries: 60
+Total architecture evaluations: 180
+
+Expected outcomes:
+Match: 48
+No Match: 12
+
+Query categories: 9
+
+FINAL EVALUATION INCLUDES
+-------------------------
+Precision@5
+Recall@5
+Feature Satisfaction
+Grounded Recommendation Rate
+Unsupported Recommendation Rate
+Correct Abstention Rate
+Recommendation Coverage
+Task Completion Rate
+Latency
+Token Consumption
+Estimated API Cost
+Coordination Efficiency
+Conflict Resolution Effectiveness
+Scalability
+Statistical Significance Tests
+Effect Sizes
+
+IMPORTANT
+---------
+This snapshot represents the frozen final experimental implementation.
+
+Final experiments should not be rerun unless an implementation
+or evaluation error is identified.
+
+LLM-generated outputs may vary between executions.

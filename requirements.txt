@@ -1,0 +1,11 @@
+datasets
+pandas
+opendatasets
+faiss-cpu
+openai
+langchain
+langgraph
+pydantic
+scipy
+numpy
+tiktoken
